@@ -3,5 +3,7 @@ public class TestGit {
         System.out.println("Test1");
         System.out.println("Test2");
         System.out.println("upload bug");
+        System.out.println("new feature");
+        System.out.println("new feature2");
     }
 }
